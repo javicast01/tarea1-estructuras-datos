@@ -1,15 +1,21 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <CodeLite_Workspace Name="Codelitecosas" Database="" Version="10000">
-  <Project Name="Codelitecosas" Path="Codelitecosas/Codelitecosas.project" Active="Yes"/>
-  <Project Name="Ejemplo001" Path="Ejemplo001/Ejemplo001.project"/>
-  <Project Name="adssadsadada" Path="adssadsadada/adssadsadada.project"/>
-  <Project Name="Ejemplo02" Path="Ejemplo02/Ejemplo02.project"/>
-  <Project Name="Ejemplo03" Path="Ejemplo03/Ejemplo03.project"/>
-  <Project Name="Ejemplo04" Path="Ejemplo04/Ejemplo04.project"/>
-  <Project Name="Ejemplo05" Path="Ejemplo05/Ejemplo05.project"/>
-  <Project Name="Ejemplo06" Path="Ejemplo06/Ejemplo06.project"/>
-  <Project Name="Ejemplo07" Path="Ejemplo07/Ejemplo07.project"/>
-  <Project Name="Ejemplo08" Path="Ejemplo08/Ejemplo08.project"/>
+  <Project Name="Codelitecosas" Path="Codelitecosas/Codelitecosas.project" Active="No"/>
+  <Project Name="Ejemplo001" Path="Ejemplo001/Ejemplo001.project" Active="No"/>
+  <Project Name="adssadsadada" Path="adssadsadada/adssadsadada.project" Active="No"/>
+  <Project Name="Ejemplo02" Path="Ejemplo02/Ejemplo02.project" Active="No"/>
+  <Project Name="Ejemplo03" Path="Ejemplo03/Ejemplo03.project" Active="No"/>
+  <Project Name="Ejemplo04" Path="Ejemplo04/Ejemplo04.project" Active="No"/>
+  <Project Name="Ejemplo05" Path="Ejemplo05/Ejemplo05.project" Active="No"/>
+  <Project Name="Ejemplo06" Path="Ejemplo06/Ejemplo06.project" Active="No"/>
+  <Project Name="Ejemplo07" Path="Ejemplo07/Ejemplo07.project" Active="No"/>
+  <Project Name="Ejemplo08" Path="Ejemplo08/Ejemplo08.project" Active="No"/>
+  <Project Name="Sesion2_Ejemplo01" Path="Sesion2_Ejemplo01/Sesion2_Ejemplo01.project" Active="No"/>
+  <Project Name="Sesion2_Ejemplo02" Path="Sesion2_Ejemplo02/Sesion2_Ejemplo02.project" Active="No"/>
+  <Project Name="Sesion2_Ejemplo03" Path="Sesion2_Ejemplo03/Sesion2_Ejemplo03.project" Active="No"/>
+  <Project Name="Sesion2_Ejemplo04" Path="Sesion2_Ejemplo04/Sesion2_Ejemplo04.project" Active="No"/>
+  <Project Name="Sesion2_Ejemplo05" Path="Sesion2_Ejemplo05/Sesion2_Ejemplo05.project" Active="No"/>
+  <Project Name="Sesion2_Ejemplo06" Path="Sesion2_Ejemplo06/Sesion2_Ejemplo06.project" Active="Yes"/>
   <BuildMatrix>
     <WorkspaceConfiguration Name="Debug">
       <Environment/>
@@ -23,6 +29,12 @@
       <Project Name="Ejemplo06" ConfigName="Debug"/>
       <Project Name="Ejemplo07" ConfigName="Debug"/>
       <Project Name="Ejemplo08" ConfigName="Debug"/>
+      <Project Name="Sesion2_Ejemplo01" ConfigName="Debug"/>
+      <Project Name="Sesion2_Ejemplo02" ConfigName="Debug"/>
+      <Project Name="Sesion2_Ejemplo03" ConfigName="Debug"/>
+      <Project Name="Sesion2_Ejemplo04" ConfigName="Debug"/>
+      <Project Name="Sesion2_Ejemplo05" ConfigName="Debug"/>
+      <Project Name="Sesion2_Ejemplo06" ConfigName="Debug"/>
     </WorkspaceConfiguration>
     <WorkspaceConfiguration Name="Release">
       <Environment/>
@@ -36,6 +48,12 @@
       <Project Name="Ejemplo06" ConfigName="Release"/>
       <Project Name="Ejemplo07" ConfigName="Release"/>
       <Project Name="Ejemplo08" ConfigName="Release"/>
+      <Project Name="Sesion2_Ejemplo01" ConfigName="Release"/>
+      <Project Name="Sesion2_Ejemplo02" ConfigName="Release"/>
+      <Project Name="Sesion2_Ejemplo03" ConfigName="Release"/>
+      <Project Name="Sesion2_Ejemplo04" ConfigName="Release"/>
+      <Project Name="Sesion2_Ejemplo05" ConfigName="Release"/>
+      <Project Name="Sesion2_Ejemplo06" ConfigName="Release"/>
     </WorkspaceConfiguration>
   </BuildMatrix>
 </CodeLite_Workspace>
