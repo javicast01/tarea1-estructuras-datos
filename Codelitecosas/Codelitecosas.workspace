@@ -15,7 +15,10 @@
   <Project Name="Sesion2_Ejemplo03" Path="Sesion2_Ejemplo03/Sesion2_Ejemplo03.project" Active="No"/>
   <Project Name="Sesion2_Ejemplo04" Path="Sesion2_Ejemplo04/Sesion2_Ejemplo04.project" Active="No"/>
   <Project Name="Sesion2_Ejemplo05" Path="Sesion2_Ejemplo05/Sesion2_Ejemplo05.project" Active="No"/>
-  <Project Name="Sesion2_Ejemplo06" Path="Sesion2_Ejemplo06/Sesion2_Ejemplo06.project" Active="Yes"/>
+  <Project Name="Sesion2_Ejemplo06" Path="Sesion2_Ejemplo06/Sesion2_Ejemplo06.project" Active="No"/>
+  <Project Name="Ejercicio13" Path="Ejercicio13/Ejercicio13.project" Active="Yes"/>
+  <Project Name="EjemploColas" Path="EjemploColas/EjemploColas.project" Active="No"/>
+  <Project Name="EjemploPilas" Path="EjemploPilas/EjemploPilas.project" Active="No"/>
   <BuildMatrix>
     <WorkspaceConfiguration Name="Debug">
       <Environment/>
@@ -35,6 +38,9 @@
       <Project Name="Sesion2_Ejemplo04" ConfigName="Debug"/>
       <Project Name="Sesion2_Ejemplo05" ConfigName="Debug"/>
       <Project Name="Sesion2_Ejemplo06" ConfigName="Debug"/>
+      <Project Name="Ejercicio13" ConfigName="Debug"/>
+      <Project Name="EjemploColas" ConfigName="Debug"/>
+      <Project Name="EjemploPilas" ConfigName="Debug"/>
     </WorkspaceConfiguration>
     <WorkspaceConfiguration Name="Release">
       <Environment/>
@@ -54,6 +60,9 @@
       <Project Name="Sesion2_Ejemplo04" ConfigName="Release"/>
       <Project Name="Sesion2_Ejemplo05" ConfigName="Release"/>
       <Project Name="Sesion2_Ejemplo06" ConfigName="Release"/>
+      <Project Name="Ejercicio13" ConfigName="Release"/>
+      <Project Name="EjemploColas" ConfigName="Release"/>
+      <Project Name="EjemploPilas" ConfigName="Release"/>
     </WorkspaceConfiguration>
   </BuildMatrix>
 </CodeLite_Workspace>
